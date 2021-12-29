@@ -1,4 +1,4 @@
-//Main.cpp
+//main.cpp
 #include<iostream>
 #include<conio.h>
 #include<windows.h>
