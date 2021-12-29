@@ -8,9 +8,10 @@ const int width = 30;
 const int height = 30;
 int x, y, fruitX, fruitY, score;
 int tailX[100], tailY[100];
-int nTail;				//specified whole the tail
+int nTail; //specified whole the tail
 enum edirection { STOP=0,LEFT,RIGHT,UP,DOWN};
 edirection dir;
+
 void setup()
 {
 	gameover = false;
